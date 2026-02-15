@@ -210,3 +210,5 @@ Variáveis que potencialmente impactam a decisão de compra:
 - Investigar causas do gap salarial observado
 - Aprofundar análise de fatores motivacionais para compra
 - Realizar estudos longitudinais para compreender mudanças temporais
+---
+**Última atualização**: Fevereiro de 2026
